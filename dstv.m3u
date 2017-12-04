@@ -1,254 +1,262 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=101 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-Net_new4-4logo_med.png"group-title="General Entertainment",M-Net
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/eab73dde-155e-4515-a706-6d1324f9084b"
+#EXTINF:-1 tvg-id=101 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-Net_new4-4logo_med.png"group-title="DSTV",M-Net
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/eab73dde-155e-4515-a706-6d1324f9084b%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=103 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_VuzuAmp_new4-3logo-dark_med.png"group-title="General Entertainment",Vuzu AMP
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/2a094aeb-1f47-44c5-abfe-056ad928db8c"
+#EXTINF:-1 tvg-id=103 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_VuzuAmp_new4-3logo-dark_med.png"group-title="DSTV",Vuzu%20AMP
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2a094aeb-1f47-44c5-abfe-056ad928db8c%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=104 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Premiere_new4-3logo_005_med.png"group-title="General Entertainment",M-Net Movies Premiere
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/d7197942-ef3b-4533-a7ed-1d26f41b9d46"
+#EXTINF:-1 tvg-id=104 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Premiere_new4-3logo_005_med.png"group-title="DSTV",M-Net%20Movies%20Premiere
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/d7197942-ef3b-4533-a7ed-1d26f41b9d46%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=105 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Smile_new4-3logo_001_med.png"group-title="General Entertainment",M-Net Movies Smile
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/85ddeeb9-6508-4270-a9b9-cfa247b7021e"
+#EXTINF:-1 tvg-id=105 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Smile_new4-3logo_001_med.png"group-title="DSTV",M-Net%20Movies%20Smile
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/85ddeeb9-6508-4270-a9b9-cfa247b7021e%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=106 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/21/DStvNowWeb_M-NetMoviesActionPlus_new4-4logo_med.png"group-title="General Entertainment",M-Net Movies Action+
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/a4ec39ad-9b0f-44cb-bc4b-672d0a005405"
+#EXTINF:-1 tvg-id=106 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/21/DStvNowWeb_M-NetMoviesActionPlus_new4-4logo_med.png"group-title="DSTV",M-Net%20Movies%20Action+
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a4ec39ad-9b0f-44cb-bc4b-672d0a005405%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=108 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/29/DStv_Sundance_Logo_4-3_dark_background_med.png"group-title="General Entertainment",Sundance TV
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/8a751b7b-907f-4ca8-8614-6245485d9108"
+#EXTINF:-1 tvg-id=108 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/29/DStv_Sundance_Logo_4-3_dark_background_med.png"group-title="DSTV",Sundance%20TV
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/8a751b7b-907f-4ca8-8614-6245485d9108%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=109 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/23/DStv_BucketList_4-3_med.png"group-title="General Entertainment",Bucket List
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/169e4ed6-e578-4888-8bf0-d75ea4cb30db"
+#EXTINF:-1 tvg-id=109 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/23/DStv_BucketList_4-3_med.png"group-title="DSTV",Bucket%20List
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/169e4ed6-e578-4888-8bf0-d75ea4cb30db%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=110 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-NetMoviesAction_new4-4logo_med.png"group-title="General Entertainment",M-Net Movies Action
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/f2dd3961-450b-4328-acd2-9dad64f1107f"
+#EXTINF:-1 tvg-id=110 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-NetMoviesAction_new4-4logo_med.png"group-title="DSTV",M-Net%20Movies%20Action
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/f2dd3961-450b-4328-acd2-9dad64f1107f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=111 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-AllStars_new4-3logo_001_med.png"group-title="General Entertainment",M-Net Movies All Stars
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/1699cd01-cebe-4f7f-836e-971ec34dbd62"
+#EXTINF:-1 tvg-id=111 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-AllStars_new4-3logo_001_med.png"group-title="DSTV",M-Net%20Movies%20All%20Stars
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1699cd01-cebe-4f7f-836e-971ec34dbd62%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=112 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_StudioUniversal_dark_new4-3logo_med.png"group-title="General Entertainment",Studio Universal
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/6975a820-fd26-4af1-87f6-2de70f5d76a3"
+#EXTINF:-1 tvg-id=112 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_StudioUniversal_dark_new4-3logo_med.png"group-title="DSTV",Studio%20Universal
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6975a820-fd26-4af1-87f6-2de70f5d76a3%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=114 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeBolly_4-3_med.png"group-title="General Entertainment",Zee Bollywood Movies
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/c3c206c4-649d-4c32-aa40-4cba50e15836"
+#EXTINF:-1 tvg-id=114 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeBolly_4-3_med.png"group-title="DSTV",Zee%20Bollywood%20Movies
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c3c206c4-649d-4c32-aa40-4cba50e15836%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=115 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/01/DStv_M-NetCity_new4-3logo-light_001_med.png"group-title="General Entertainment",M-Net City
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/e92fa1c7-79b5-4bbc-a276-0522f73b06ec"
+#EXTINF:-1 tvg-id=115 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/01/DStv_M-NetCity_new4-3logo-light_001_med.png"group-title="DSTV",M-Net%20City
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/e92fa1c7-79b5-4bbc-a276-0522f73b06ec%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=116 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_Vuzu_new4-3logo-dark_med.png"group-title="General Entertainment",Vuzu
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/36d68fa7-c585-4bef-9302-53479012702c"
+#EXTINF:-1 tvg-id=116 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_Vuzu_new4-3logo-dark_med.png"group-title="DSTV",Vuzu
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/36d68fa7-c585-4bef-9302-53479012702c%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=117 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_Universal_dark_new4-3logo_001_med.png"group-title="General Entertainment",Universal Channel
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/6d11af4a-5c31-407c-90d1-e0468b8f625b"
+#EXTINF:-1 tvg-id=117 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_Universal_dark_new4-3logo_001_med.png"group-title="DSTV",Universal%20Channel
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6d11af4a-5c31-407c-90d1-e0468b8f625b%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=118 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Telemundo_new4-4logo_med.png"group-title="General Entertainment",Telemundo
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/0c2d6148-1fb0-46fd-957f-b47eb4689bfb"
+#EXTINF:-1 tvg-id=118 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Telemundo_new4-4logo_med.png"group-title="DSTV",Telemundo
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/0c2d6148-1fb0-46fd-957f-b47eb4689bfb%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=119 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/11/DStv_BBCFirst_Logo_4-3_dark_background_med.png"group-title="General Entertainment",BBC First
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/85e9996c-29e8-45d2-a45b-a5e8a266fe92"
+#EXTINF:-1 tvg-id=119 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/11/DStv_BBCFirst_Logo_4-3_dark_background_med.png"group-title="DSTV",BBC%20First
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/85e9996c-29e8-45d2-a45b-a5e8a266fe92%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=120 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_BBCBrit_new4-4logo_med.png"group-title="General Entertainment",BBC Brit
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/d38465be-4ee2-4e47-a002-37dca48d7c21"
+#EXTINF:-1 tvg-id=120 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_BBCBrit_new4-4logo_med.png"group-title="DSTV",BBC%20Brit
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/d38465be-4ee2-4e47-a002-37dca48d7c21%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=122 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/09/15/DStv_ComedyCentral_new4-3logo-dark_med.png"group-title="General Entertainment",Comedy Central
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/988771b3-4bc4-4f22-886d-8f29ac9d2bba"
+#EXTINF:-1 tvg-id=122 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/09/15/DStv_ComedyCentral_new4-3logo-dark_med.png"group-title="DSTV",Comedy%20Central
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/988771b3-4bc4-4f22-886d-8f29ac9d2bba%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=123 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_ITVChoice_new4-4logo_001_med.png"group-title="General Entertainment",ITV Choice
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/f1713a44-62c0-44b5-9c56-d76929da7115"
+#EXTINF:-1 tvg-id=123 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_ITVChoice_new4-4logo_001_med.png"group-title="DSTV",ITV%20Choice
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/f1713a44-62c0-44b5-9c56-d76929da7115%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=124 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_E_new4-3logo-dark_med.png"group-title="General Entertainment",E! Entertainment Television
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/ec61ce86-be5e-4e86-bfed-47ccee968295"
+#EXTINF:-1 tvg-id=124 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_E_new4-3logo-dark_med.png"group-title="DSTV",E!%20Entertainment%20Television
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/ec61ce86-be5e-4e86-bfed-47ccee968295%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=125 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_FOX_new4-3logo_med.png"group-title="General Entertainment",FOX
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/1ec7baa9-525d-49ed-9921-074caef44b02"
+#EXTINF:-1 tvg-id=125 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_FOX_new4-3logo_med.png"group-title="DSTV",FOX
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1ec7baa9-525d-49ed-9921-074caef44b02%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=126 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/09/29/DStv_FoxLife_new4-3logo-dark_med.png"group-title="General Entertainment",FOX Life
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/c84d4526-f10f-436b-af62-92fc0a4f1744"
+#EXTINF:-1 tvg-id=126 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/09/29/DStv_FoxLife_new4-3logo-dark_med.png"group-title="DSTV",FOX%20Life
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c84d4526-f10f-436b-af62-92fc0a4f1744%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=129 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_BET_new4-3logo-dark_med.png"group-title="General Entertainment",BET
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/229ec623-f220-40fa-a9e0-0c237ff00d3f"
+#EXTINF:-1 tvg-id=129 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_BET_new4-3logo-dark_med.png"group-title="DSTV",BET
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/229ec623-f220-40fa-a9e0-0c237ff00d3f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=131 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Lifetime_new4-4logo_001_med.png"group-title="General Entertainment",Lifetime
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/61d34969-2deb-4bc3-a1e9-97ff46c207a0"
+#EXTINF:-1 tvg-id=131 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Lifetime_new4-4logo_001_med.png"group-title="DSTV",Lifetime
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/61d34969-2deb-4bc3-a1e9-97ff46c207a0%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=139 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_M-Net-Movies-Zone_new4-3logo-dark_med.png"group-title="General Entertainment",M-Net Movies Zone
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/a0e986c2-9734-480f-981b-1f7c18852728"
+#EXTINF:-1 tvg-id=139 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_M-Net-Movies-Zone_new4-3logo-dark_med.png"group-title="DSTV",M-Net%20Movies%20Zone
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a0e986c2-9734-480f-981b-1f7c18852728%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=141 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/23/eva_med.png"group-title="General Entertainment",EVA English
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/26f1066c-4498-47f4-be01-8dfe75a9d4f9"
+#EXTINF:-1 tvg-id=141 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/23/eva_med.png"group-title="DSTV",EVA%20English
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/26f1066c-4498-47f4-be01-8dfe75a9d4f9%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=144 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNET_Light_and__Dark_003_med.png"group-title="General Entertainment",kykNET
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/abe5994d-189a-40be-b51d-b15369e4bde7"
+#EXTINF:-1 tvg-id=144 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNET_Light_and__Dark_003_med.png"group-title="DSTV",kykNET
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/abe5994d-189a-40be-b51d-b15369e4bde7%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=145 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kyk_Kie_Light_and__Dark_002_med.png"group-title="General Entertainment",kykNET & Kie
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/5125cb0e-a0ee-4380-9697-8d4eb2c5c718"
+#EXTINF:-1 tvg-id=145 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kyk_Kie_Light_and__Dark_002_med.png"group-title="DSTV",kykNET%20&%20Kie
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/5125cb0e-a0ee-4380-9697-8d4eb2c5c718%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=146 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNOU_For-Dark_med.png"group-title="General Entertainment",kykNET Nou!
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/dcfa84d3-5c6b-4448-9dd0-a5925c315478"
+#EXTINF:-1 tvg-id=146 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNOU_For-Dark_med.png"group-title="DSTV",kykNET%20Nou!
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/dcfa84d3-5c6b-4448-9dd0-a5925c315478%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=147 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_VIA_new4-3logo_003_med.png"group-title="General Entertainment",VIA
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/9d13e4d6-d45c-491b-afba-d59f9839e0aa"
+#EXTINF:-1 tvg-id=147 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_VIA_new4-3logo_003_med.png"group-title="DSTV",VIA
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9d13e4d6-d45c-491b-afba-d59f9839e0aa%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=152 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/Africa-Magic-Epic_new4-3logo_med.png"group-title="General Entertainment",AfricaMagic Epic
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/9908da19-b506-44d5-92c6-64ab5ca05ae5"
+#EXTINF:-1 tvg-id=152 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/Africa-Magic-Epic_new4-3logo_med.png"group-title="DSTV",AfricaMagic%20Epic
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9908da19-b506-44d5-92c6-64ab5ca05ae5%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=153 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Urban_new4-3logo_med.png"group-title="General Entertainment",Africa Magic Urban
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/a17405a4-7f2b-4366-8983-b93a0b47ee88"
+#EXTINF:-1 tvg-id=153 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Urban_new4-3logo_med.png"group-title="DSTV",Africa%20Magic%20Urban
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a17405a4-7f2b-4366-8983-b93a0b47ee88%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=154 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic-Family_Family_new4-3logo_Dark_001_med.png"group-title="General Entertainment",Africa Magic Family
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/abc333b6-5ec5-43f6-bf76-9aaa770ae991"
+#EXTINF:-1 tvg-id=154 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic-Family_Family_new4-3logo_Dark_001_med.png"group-title="DSTV",Africa%20Magic%20Family
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/abc333b6-5ec5-43f6-bf76-9aaa770ae991%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=161 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_Mzansi-Magic_new4-3logo-light_001_med.png"group-title="General Entertainment",Mzansi Magic 
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/eb295b07-50c5-472a-9540-7379c31bc78a"
+#EXTINF:-1 tvg-id=161 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_Mzansi-Magic_new4-3logo-light_001_med.png"group-title="DSTV",Mzansi%20Magic%20
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/eb295b07-50c5-472a-9540-7379c31bc78a%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=163 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiWethu_new4-3logo_med.png"group-title="General Entertainment",Mzansi Wethu
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/2b892f4a-9151-4c02-b6e3-d6dd4eefa866"
+#EXTINF:-1 tvg-id=163 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiWethu_new4-3logo_med.png"group-title="DSTV",Mzansi%20Wethu
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2b892f4a-9151-4c02-b6e3-d6dd4eefa866%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=164 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiBioskop_new4-3logo_med.png"group-title="General Entertainment",Mzansi Bioskop
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/456d08f5-13d0-4dfa-a9b5-a7aa084ee8cc"
+#EXTINF:-1 tvg-id=164 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiBioskop_new4-3logo_med.png"group-title="DSTV",Mzansi%20Bioskop
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/456d08f5-13d0-4dfa-a9b5-a7aa084ee8cc%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png"group-title="General Entertainment",Zee World
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/711825eb-72b1-4e8e-9c3f-362f6eb011b4"
+#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png"group-title="DSTV",Zee%20World
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/711825eb-72b1-4e8e-9c3f-362f6eb011b4%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=168 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/31/ROK_new4-3logo_001_med.png"group-title="General Entertainment",ROK
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/1bf6867b-2a1f-4357-8c6b-c844a14be27f"
+#EXTINF:-1 tvg-id=168 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/31/ROK_new4-3logo_001_med.png"group-title="DSTV",ROK
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1bf6867b-2a1f-4357-8c6b-c844a14be27f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=170 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/31/Crime_DStv_New_Logo_4-3_001_med.png"group-title="Documentary",Crime + Investigation
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/0c517c3a-93b6-402f-9236-428b8e04ba3d"
+#EXTINF:-1 tvg-id=170 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/31/Crime_DStv_New_Logo_4-3_001_med.png"group-title="DSTV",Crime%20+%20Investigation
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/0c517c3a-93b6-402f-9236-428b8e04ba3d%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=174 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_BBCLifestyle_dark_new4-3logo_001_med.png"group-title="General Entertainment",BBC Lifestyle
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/f0b01393-ae32-49cc-a02e-7d71b958d9ea"
+#EXTINF:-1 tvg-id=174 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_BBCLifestyle_dark_new4-3logo_001_med.png"group-title="DSTV",BBC%20Lifestyle
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/f0b01393-ae32-49cc-a02e-7d71b958d9ea%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=175 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/26/DStv_FoodNetwork_new4-3logo_001_med.png"group-title="General Entertainment",Food Network
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/1e7b4fdc-de40-42cb-b9b3-390daa829edc"
+#EXTINF:-1 tvg-id=175 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/26/DStv_FoodNetwork_new4-3logo_001_med.png"group-title="DSTV",Food%20Network
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1e7b4fdc-de40-42cb-b9b3-390daa829edc%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=181 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/31/DStv_NationalGeographic_new4-3logo-dark_001_med.png"group-title="General Entertainment",National Geographic
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/6c949e76-9cf2-4110-bb28-c28b41124a15"
+#EXTINF:-1 tvg-id=181 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/31/DStv_NationalGeographic_new4-3logo-dark_001_med.png"group-title="DSTV",National%20Geographic
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6c949e76-9cf2-4110-bb28-c28b41124a15%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=182 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_NatGeoWild_new4-3logo-light_001_med.png"group-title="General Entertainment",Nat Geo Wild
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/962b202c-d394-4459-a084-f31fcb43c478"
+#EXTINF:-1 tvg-id=182 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_NatGeoWild_new4-3logo-light_001_med.png"group-title="DSTV",Nat%20Geo%20Wild
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/962b202c-d394-4459-a084-f31fcb43c478%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=184 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_BBCEarth_dark_new4-3logo_med.png"group-title="General Entertainment",BBC Earth
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/83f17af2-3e90-4971-9145-b7b5ef07377d"
+#EXTINF:-1 tvg-id=184 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_BBCEarth_dark_new4-3logo_med.png"group-title="DSTV",BBC%20Earth
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/83f17af2-3e90-4971-9145-b7b5ef07377d%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=186 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_History_dark_new4-3logo_003_med.png"group-title="General Entertainment",HISTORY
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/8f90ebcd-3b26-4ccf-b857-c6206f7d73f2"
+#EXTINF:-1 tvg-id=186 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_History_dark_new4-3logo_003_med.png"group-title="DSTV",HISTORY
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/8f90ebcd-3b26-4ccf-b857-c6206f7d73f2%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=191 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_SABC_1_4-3_med.png"group-title="General Entertainment",SABC 1
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/e712ce69-6367-4d8b-9d9c-1cf675722679"
+#EXTINF:-1 tvg-id=191 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_SABC_1_4-3_med.png"group-title="DSTV",SABC%201
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/e712ce69-6367-4d8b-9d9c-1cf675722679%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=192 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/dsTV_nEW_sabc2_4-3_med.png"group-title="General Entertainment",SABC 2
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/03520214-d35a-4970-b08f-ad4ac87ffb05"
+#EXTINF:-1 tvg-id=192 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/dsTV_nEW_sabc2_4-3_med.png"group-title="DSTV",SABC%202
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/03520214-d35a-4970-b08f-ad4ac87ffb05%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=193 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_New_SABC3_Dark_Background_4-3_001_med.png"group-title="General Entertainment",SABC 3
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/ecc41656-2e12-45bc-a1b0-e778cba7ce75"
+#EXTINF:-1 tvg-id=193 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_New_SABC3_Dark_Background_4-3_001_med.png"group-title="DSTV",SABC%203
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/ecc41656-2e12-45bc-a1b0-e778cba7ce75%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=194 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_etv_Logo_4-3_med.png"group-title="General Entertainment",e.tv
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/ee54a0fd-d248-4b17-b2a3-170c593f1619"
+#EXTINF:-1 tvg-id=194 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_etv_Logo_4-3_med.png"group-title="DSTV",e.tv
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/ee54a0fd-d248-4b17-b2a3-170c593f1619%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=196 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/13/DStv_Voov_4-3_white_background_med.png"group-title="General Entertainment",VOOV TV
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/47a88aca-23f9-49ee-acdd-517430f263a7"
+#EXTINF:-1 tvg-id=196 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/13/DStv_Voov_4-3_white_background_med.png"group-title="DSTV",VOOV%20TV
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/47a88aca-23f9-49ee-acdd-517430f263a7%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=200 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS_Blitz_dark_background_4-3_001_med.png"group-title="Sport",SuperSport Blitz
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/48c468a0-76b3-486a-858c-1a5012609d54"
+#EXTINF:-1 tvg-id=200 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS_Blitz_dark_background_4-3_001_med.png"group-title="DSTV",SuperSport%20Blitz
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/48c468a0-76b3-486a-858c-1a5012609d54%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=201 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS1_dark_background_4-3_001_med.png"group-title="Sport",SuperSport 1
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/e6058f06-43f1-4ba2-beb5-caab09b63ef6"
+#EXTINF:-1 tvg-id=201 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS1_dark_background_4-3_001_med.png"group-title="DSTV",SuperSport%201
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/e6058f06-43f1-4ba2-beb5-caab09b63ef6%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=202 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS2_dark_background_4-3_002_med.png"group-title="Sport",SuperSport 2
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/0866e73b-6ece-42c9-8b87-68ad31db5847"
+#EXTINF:-1 tvg-id=202 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS2_dark_background_4-3_002_med.png"group-title="DSTV",SuperSport%202
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/0866e73b-6ece-42c9-8b87-68ad31db5847%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=203 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS3_dark_background_4-3_med.png"group-title="Sport",SuperSport 3
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/aa0bc873-0cfa-4739-b213-e64243cd22ef"
+#EXTINF:-1 tvg-id=203 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS3_dark_background_4-3_med.png"group-title="DSTV",SuperSport%203
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/aa0bc873-0cfa-4739-b213-e64243cd22ef%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=204 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS4_dark_background_4-3_003_med.png"group-title="Sport",SuperSport 4
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/7cfb679a-8dfe-417e-95af-60e6fb0d490c"
+#EXTINF:-1 tvg-id=204 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS4_dark_background_4-3_003_med.png"group-title="DSTV",SuperSport%204
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/7cfb679a-8dfe-417e-95af-60e6fb0d490c%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=205 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS5_dark_background_4-3_med.png"group-title="Sport",SuperSport 5
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/6c2aede7-c1f6-463c-b1fa-b5444818aa7d"
+#EXTINF:-1 tvg-id=205 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS5_dark_background_4-3_med.png"group-title="DSTV",SuperSport%205
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6c2aede7-c1f6-463c-b1fa-b5444818aa7d%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=206 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS6_dark_background_4-3_med.png"group-title="Sport",SuperSport 6
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/5a2132a3-4a89-4543-99e5-0088889f2c6b"
+#EXTINF:-1 tvg-id=206 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS6_dark_background_4-3_med.png"group-title="DSTV",SuperSport%206
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/5a2132a3-4a89-4543-99e5-0088889f2c6b%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=207 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS7_dark_background_4-3_001_med.png"group-title="Sport",SuperSport 7
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/547fd877-9913-4688-8776-4607122fdf4b"
+#EXTINF:-1 tvg-id=207 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS7_dark_background_4-3_001_med.png"group-title="DSTV",SuperSport%207
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/547fd877-9913-4688-8776-4607122fdf4b%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=208 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS8_dark_background_4-3_med.png"group-title="Sport",SuperSport 8
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/78b10706-18c3-4c7d-9a5e-2a02a0e2ea23"
+#EXTINF:-1 tvg-id=208 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS8_dark_background_4-3_med.png"group-title="DSTV",SuperSport%208
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/78b10706-18c3-4c7d-9a5e-2a02a0e2ea23%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=209 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS9_dark_background_4-3_med.png"group-title="Sport",SuperSport 9
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/38d6a4fc-eddb-4157-8a73-3f12224b4d3f"
+#EXTINF:-1 tvg-id=209 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS9_dark_background_4-3_med.png"group-title="DSTV",SuperSport%209
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/38d6a4fc-eddb-4157-8a73-3f12224b4d3f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=210 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS10_dark_background_4-3_med.png"group-title="Sport",SuperSport 10
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/cf9ae0a9-c81d-4e73-a10b-97a84ed8abee"
+#EXTINF:-1 tvg-id=210 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS10_dark_background_4-3_med.png"group-title="DSTV",SuperSport%2010
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/cf9ae0a9-c81d-4e73-a10b-97a84ed8abee%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=211 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS11_dark_background_4-3_med.png"group-title="Sport",SuperSport 11
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/92046b9e-ec22-4a24-8ea6-a8892080d7ee"
+#EXTINF:-1 tvg-id=211 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS11_dark_background_4-3_med.png"group-title="DSTV",SuperSport%2011
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/92046b9e-ec22-4a24-8ea6-a8892080d7ee%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=212 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS12_dark_background_4-3_med.png"group-title="Sport",SuperSport 12
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/9224a474-1364-4025-922b-2997f2abf56d"
+#EXTINF:-1 tvg-id=212 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS12_dark_background_4-3_med.png"group-title="DSTV",SuperSport%2012
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9224a474-1364-4025-922b-2997f2abf56d%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=240 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/04/26/DStv_Ginx_Logo_4-3dark_background_med.png"group-title="Sport",Ginx eSports TV
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/16e85dd8-d0be-45a6-8f29-de83a04dd42f"
+#EXTINF:-1 tvg-id=240 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/04/26/DStv_Ginx_Logo_4-3dark_background_med.png"group-title="DSTV",Ginx%20eSports%20TV
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/16e85dd8-d0be-45a6-8f29-de83a04dd42f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=301 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/08/15/Cartoon-Network-logo-2010-880x660_001_med.png"group-title="Children",Cartoon Network
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/370a209b-dab6-46d9-b8c0-5a9a3831f3a3"
+#EXTINF:-1 tvg-id=301 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/08/15/Cartoon-Network-logo-2010-880x660_001_med.png"group-title="DSTV",Cartoon%20Network
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/370a209b-dab6-46d9-b8c0-5a9a3831f3a3%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=302 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/DStv_Boomerang_4-3_whitelogo_003_med.png"group-title="Children",Boomerang
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/383aa981-6bbd-4900-9ac0-f2c540d2eabb"
+#EXTINF:-1 tvg-id=302 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/DStv_Boomerang_4-3_whitelogo_003_med.png"group-title="DSTV",Boomerang
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/383aa981-6bbd-4900-9ac0-f2c540d2eabb%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=305 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_nickelodeon_new4-4logo_med.png"group-title="Children",Nickelodeon
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/76fcac7a-065c-4620-a663-cc139dc12e5b"
+#EXTINF:-1 tvg-id=305 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_nickelodeon_new4-4logo_med.png"group-title="DSTV",Nickelodeon
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/76fcac7a-065c-4620-a663-cc139dc12e5b%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=306 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Cbeebies_new4-4logo_med.png"group-title="Children",Cbeebies
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/5cdf8294-0c9e-4488-8c80-4287f01c49f6"
+#EXTINF:-1 tvg-id=306 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Cbeebies_new4-4logo_med.png"group-title="DSTV",Cbeebies
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/5cdf8294-0c9e-4488-8c80-4287f01c49f6%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=307 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_nickjr_new4-4logo_med.png"group-title="Children",Nick Jr
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/8a1d78a4-e2b2-4875-b1c9-3ec9fccee015"
+#EXTINF:-1 tvg-id=307 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_nickjr_new4-4logo_med.png"group-title="DSTV",Nick%20Jr
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/8a1d78a4-e2b2-4875-b1c9-3ec9fccee015%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=308 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_nicktoons_new4-4logo_med.png"group-title="Children",NickTOONS 
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/20c971dd-68d0-46f0-bde3-2a0649f4d6b9"
+#EXTINF:-1 tvg-id=308 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_nicktoons_new4-4logo_med.png"group-title="DSTV",NickTOONS%20
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/20c971dd-68d0-46f0-bde3-2a0649f4d6b9%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=310 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_JimJam_new4-4logo_med.png"group-title="Children",JimJam
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/9539a361-f278-4d51-b931-9d49a386556d"
+#EXTINF:-1 tvg-id=310 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_JimJam_new4-4logo_med.png"group-title="DSTV",JimJam
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9539a361-f278-4d51-b931-9d49a386556d%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=320 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/05/dstv_ChannelO_dark_background_4-3_med.png"group-title="General Entertainment",Channel O
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/97a3c5ed-ad8d-44a9-8b60-082cbd91aeda"
+#EXTINF:-1 tvg-id=320 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/05/dstv_ChannelO_dark_background_4-3_med.png"group-title="DSTV",Channel%20O
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/97a3c5ed-ad8d-44a9-8b60-082cbd91aeda%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=321 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/08/16/mzansimagicmusic_4x3_001_med.png"group-title="General Entertainment",Mzansi Magic Music
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/072d8582-ffe0-4e4b-af0a-7ba008a0fd5f"
+#EXTINF:-1 tvg-id=321 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/08/16/mzansimagicmusic_4x3_001_med.png"group-title="DSTV",Mzansi%20Magic%20Music
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/072d8582-ffe0-4e4b-af0a-7ba008a0fd5f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=322 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_MTV-Base_new4-3logo-dark_med.png"group-title="General Entertainment",MTV Base
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/1eef36aa-5537-46b4-bf57-34b7b33c0c94"
+#EXTINF:-1 tvg-id=322 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_MTV-Base_new4-3logo-dark_med.png"group-title="DSTV",MTV%20Base
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1eef36aa-5537-46b4-bf57-34b7b33c0c94%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=325 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_TraceUrban_new4-4logo_001_med.png"group-title="General Entertainment",TRACE Urban
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/38a564d0-7052-49a4-a217-e5bac466b029"
+#EXTINF:-1 tvg-id=325 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_TraceUrban_new4-4logo_001_med.png"group-title="DSTV",TRACE%20Urban
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/38a564d0-7052-49a4-a217-e5bac466b029%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=326 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/06/22/DStv_TraceAfrica_Logo_4-3_004_med.png"group-title="General Entertainment",TRACE Africa
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/588bf8ca-ab71-4db5-8a9a-41b5d4c110d5"
+#EXTINF:-1 tvg-id=326 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/06/22/DStv_TraceAfrica_Logo_4-3_004_med.png"group-title="DSTV",TRACE%20Africa
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/588bf8ca-ab71-4db5-8a9a-41b5d4c110d5%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=331 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/07/DStv_OneGospel_dark_background_4-3_med.png"group-title="General Entertainment",One Gospel
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/7c2990bd-4117-4604-bc42-d4fed92517db"
+#EXTINF:-1 tvg-id=331 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/07/DStv_OneGospel_dark_background_4-3_med.png"group-title="DSTV",One%20Gospel
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/7c2990bd-4117-4604-bc42-d4fed92517db%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=400 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_BBCWorldNews_dark_new4-3logo_001_med.png"group-title="News",BBC World News
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/91a7da2c-2dc4-4d2e-82f6-219d23ad733f"
+#EXTINF:-1 tvg-id=400 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_BBCWorldNews_dark_new4-3logo_001_med.png"group-title="DSTV",BBC%20World%20News
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/91a7da2c-2dc4-4d2e-82f6-219d23ad733f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=401 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/26/DStv_CNN_new4-3logo_002_med.png"group-title="News",CNN International
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/e28667e6-6adb-4fb9-b000-3f460daba414"
+#EXTINF:-1 tvg-id=401 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/26/DStv_CNN_new4-3logo_002_med.png"group-title="DSTV",CNN%20International
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/e28667e6-6adb-4fb9-b000-3f460daba414%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=402 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/09/06/DStv_SkyNews_new4-3logo_med.png"group-title="News",Sky News
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/55b62348-1fe6-4e2a-a9e5-a9296aa47456"
+#EXTINF:-1 tvg-id=402 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/09/06/DStv_SkyNews_new4-3logo_med.png"group-title="DSTV",Sky%20News
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/55b62348-1fe6-4e2a-a9e5-a9296aa47456%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=403 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_eNCA_Logo_light_background_4-3_001_med.png"group-title="News",eNews Channel Africa
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/eb0777b1-b213-4549-9513-3ed93d0de4e8"
+#EXTINF:-1 tvg-id=403 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/12/DStv_eNCA_Logo_light_background_4-3_001_med.png"group-title="DSTV",eNews%20Channel%20Africa
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/eb0777b1-b213-4549-9513-3ed93d0de4e8%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=404 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_SABCNews_new4-4logo_med.png"group-title="News",SABC News
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/6b58880d-3f60-4a24-bace-0f37c0495218"
+#EXTINF:-1 tvg-id=404 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_SABCNews_new4-4logo_med.png"group-title="DSTV",SABC%20News
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6b58880d-3f60-4a24-bace-0f37c0495218%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png"group-title="News",Al Jazeera
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/439b1abf-601f-41bd-9add-1a7c08f7426f"
+#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png"group-title="DSTV",Al%20Jazeera
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/439b1abf-601f-41bd-9add-1a7c08f7426f%3facc_pg_sec=livetv%20channel%20list""
 
-#EXTINF:-1 tvg-id=412 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_BusinessDay_4-3_dark_background_med.png"group-title="News",Business Day TV
-http://localhost:8025/webplay?url="http://now.dstv.com/livetv/play/c54c732c-61dd-468f-abdc-49af451dfc98"
+#EXTINF:-1 tvg-id=412 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_BusinessDay_4-3_dark_background_med.png"group-title="DSTV",Business%20Day%20TV
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c54c732c-61dd-468f-abdc-49af451dfc98%3facc_pg_sec=livetv%20channel%20list""
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         etv/play/6b58880d-3f60-4a24-bace-0f37c0495218%3facc_pg_sec=livetv%20channel%20list""
+
+#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png"group-title="DSTV",Al%20Jazeera
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/439b1abf-601f-41bd-9add-1a7c08f7426f%3facc_pg_sec=livetv%20channel%20list""
+
+#EXTINF:-1 tvg-id=412 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_BusinessDay_4-3_dark_background_med.png"group-title="DSTV",Business%20Day%20TV
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c54c732c-61dd-468f-abdc-49af451dfc98%3facc_pg_sec=livetv%20channel%20list""
 
